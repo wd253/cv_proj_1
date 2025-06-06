@@ -1,0 +1,95 @@
+{
+    "version": "5.2.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "sitting",
+            "points": [
+                [
+                    395.3171081542969,
+                    180.81689453125
+                ],
+                [
+                    467.1189880371094,
+                    240.5447998046875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    27.732872009277344,
+                    190.88967895507812
+                ],
+                [
+                    103.2659683227539,
+                    309.20159912109375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    205.03257751464844,
+                    132.50527954101562
+                ],
+                [
+                    240.7660369873047,
+                    214.42153930664062
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    275.0551452636719,
+                    138.45742797851562
+                ],
+                [
+                    304.9058532714844,
+                    236.00955200195312
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    61.595489501953125,
+                    163.88467407226562
+                ],
+                [
+                    92.65010070800781,
+                    250.26626586914062
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "000219.png",
+    "imageData": null,
+    "imageHeight": 345,
+    "imageWidth": 640
+}

@@ -1,0 +1,95 @@
+{
+    "version": "5.2.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "standing",
+            "points": [
+                [
+                    360.35552978515625,
+                    171.14544677734375
+                ],
+                [
+                    402.2529296875,
+                    282.82049560546875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "throwing",
+            "points": [
+                [
+                    196.94171142578125,
+                    175.861328125
+                ],
+                [
+                    239.47451782226562,
+                    311.8927307128906
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    180.24546813964844,
+                    152.07330322265625
+                ],
+                [
+                    216.72889709472656,
+                    244.61431884765625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    24.855466842651367,
+                    206.17486572265625
+                ],
+                [
+                    68.70558166503906,
+                    282.47381591796875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    46.74772644042969,
+                    201.84207153320312
+                ],
+                [
+                    76.77674865722656,
+                    283.7620544433594
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "000222.png",
+    "imageData": null,
+    "imageHeight": 345,
+    "imageWidth": 640
+}

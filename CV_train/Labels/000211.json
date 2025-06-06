@@ -1,0 +1,78 @@
+{
+    "version": "5.2.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "standing",
+            "points": [
+                [
+                    270.25830078125,
+                    197.57843017578125
+                ],
+                [
+                    336.7486572265625,
+                    318.069580078125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    81.07969665527344,
+                    186.71212768554688
+                ],
+                [
+                    144.02037048339844,
+                    309.2185974121094
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "throwing",
+            "points": [
+                [
+                    155.83389282226562,
+                    212.9950714111328
+                ],
+                [
+                    224.35836791992188,
+                    344.26275634765625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    289.32269287109375,
+                    164.0130157470703
+                ],
+                [
+                    326.66900634765625,
+                    218.0173797607422
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "000211.png",
+    "imageData": null,
+    "imageHeight": 345,
+    "imageWidth": 640
+}

@@ -1,0 +1,82 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "sitting",
+            "points": [
+                [
+                    384.49481201171875,
+                    55.46500778198242
+                ],
+                [
+                    427.0338134765625,
+                    110.31938171386719
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "sitting",
+            "points": [
+                [
+                    129.50226244343895,
+                    0.0
+                ],
+                [
+                    178.07598876953125,
+                    25.464080810546875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "sitting",
+            "points": [
+                [
+                    40.36199095022627,
+                    179.18552036199094
+                ],
+                [
+                    118.6425339366516,
+                    238.11085972850674
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    162.08144796380097,
+                    188.68778280542983
+                ],
+                [
+                    195.11312217194575,
+                    223.63122171945702
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "000153.png",
+    "imageData": null,
+    "imageHeight": 345,
+    "imageWidth": 640
+}

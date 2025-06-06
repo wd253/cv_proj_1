@@ -1,0 +1,154 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "standing",
+            "points": [
+                [
+                    195.72021484375,
+                    127.61825561523438
+                ],
+                [
+                    248.20013427734375,
+                    256.964599609375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    54.02973937988281,
+                    143.64889526367188
+                ],
+                [
+                    101.46379089355469,
+                    289.9780578613281
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    559.3494873046875,
+                    131.26129150390625
+                ],
+                [
+                    610.8314208984375,
+                    273.0750732421875
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "throwing",
+            "points": [
+                [
+                    416.93206787109375,
+                    115.79867553710938
+                ],
+                [
+                    462.074462890625,
+                    230.32550048828125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    561.6604614257812,
+                    48.37693786621094
+                ],
+                [
+                    579.5365600585938,
+                    82.29393005371094
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    477.76605224609375,
+                    61.03111267089844
+                ],
+                [
+                    488.10308837890625,
+                    88.466552734375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    529.572021484375,
+                    44.508758544921875
+                ],
+                [
+                    541.8115234375,
+                    71.63325500488281
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    450.4689636230469,
+                    54.337745666503906
+                ],
+                [
+                    464.6009216308594,
+                    90.76335906982422
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "000209.png",
+    "imageData": null,
+    "imageHeight": 345,
+    "imageWidth": 640
+}

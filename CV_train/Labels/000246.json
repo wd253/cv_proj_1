@@ -1,0 +1,154 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "standing",
+            "points": [
+                [
+                    97.29427337646484,
+                    43.34649658203125
+                ],
+                [
+                    181.28659057617188,
+                    333.91162109375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    464.3975830078125,
+                    112.04824829101562
+                ],
+                [
+                    577.8226318359375,
+                    342.700927734375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    202.25146484375,
+                    29.021018981933594
+                ],
+                [
+                    249.87518310546875,
+                    120.4768295288086
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    411.57012939453125,
+                    23.713088989257812
+                ],
+                [
+                    472.33905029296875,
+                    152.07720947265625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "sitting",
+            "points": [
+                [
+                    223.69833374023438,
+                    108.08505249023438
+                ],
+                [
+                    290.1843566894531,
+                    237.958251953125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "sitting",
+            "points": [
+                [
+                    411.92425537109375,
+                    126.48324584960938
+                ],
+                [
+                    481.59173583984375,
+                    223.33651733398438
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    288.4364013671875,
+                    28.899837493896484
+                ],
+                [
+                    338.116455078125,
+                    154.61849975585938
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "sitting",
+            "points": [
+                [
+                    298.89788818359375,
+                    113.480712890625
+                ],
+                [
+                    370.5244140625,
+                    288.75189208984375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "000246.png",
+    "imageData": null,
+    "imageHeight": 345,
+    "imageWidth": 640
+}

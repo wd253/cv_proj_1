@@ -1,0 +1,82 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "sitting",
+            "points": [
+                [
+                    237.93479919433594,
+                    290.6473388671875
+                ],
+                [
+                    279.307861328125,
+                    344.5208740234375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    434.4908447265625,
+                    205.45028686523438
+                ],
+                [
+                    465.5570068359375,
+                    291.2734375
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "throwing",
+            "points": [
+                [
+                    253.65756225585938,
+                    134.65097045898438
+                ],
+                [
+                    294.6043395996094,
+                    239.32061767578125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "standing",
+            "points": [
+                [
+                    249.8885498046875,
+                    100.08480072021484
+                ],
+                [
+                    275.105224609375,
+                    154.86672973632812
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "000239.png",
+    "imageData": null,
+    "imageHeight": 345,
+    "imageWidth": 640
+}
